@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="First Test Suite">
+    <test name="First Test">
+        <parameter name="userName" value="admin"></parameter>
+        <parameter name="Password" value="admin"></parameter>
+        <classes>
+            <class name="Task1"></class>
+        </classes>
+    </test>
+</suite>
